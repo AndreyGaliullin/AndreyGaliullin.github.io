@@ -1,2 +1,2 @@
-# AndreyGaliullin.github.io
+# Андрей Галиуллин
 Мой первый сайт
